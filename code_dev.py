@@ -5,4 +5,8 @@ try:
 except ZeroDivisionError:
        print("cant divide with zero")
 except ValueError:
-       print("please provide int value only")
+
+
+
+       print1("please provide int value only")
+
