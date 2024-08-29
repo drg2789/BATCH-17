@@ -1,0 +1,9 @@
+{
+	"name": "check67",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a226221-9a24-421b-ab63-3b38c512cca5",
+		"tenantId": "857bd67d-70d7-4716-af68-12eca621d622"
+	}
+}
