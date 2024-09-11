@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/dnikam541@gmail.com/raw_to_stage_load"
+					"notebookPath": "/Users/dnikam541@gmail.com/BATCH-17/.idea/Databricks/raw_to_stage"
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",
